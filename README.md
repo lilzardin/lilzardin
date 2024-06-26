@@ -2,7 +2,7 @@
 
 Meu nome é Breno!
 
-- Eu estou estudando no alura.
+- Eu estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo este espaço para minha organização e compartilho dos meus projetos desenvolvidos 
 
